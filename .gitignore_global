@@ -1,24 +1,13 @@
-# files without extensions
+# c++
 *
 !*/
 !*.*
+.vscode/
+*.dSYM
+*.exe
+
+# python
+venv/
 
 # macos folder settings
 .DS_Store
-
-# pycharm
-.idea/
-venv/
-
-# visual studio
-.vs/
-Debug/
-Release/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-
-# visual studio code
-.vscode/
-*.dSYM
