@@ -1,10 +1,10 @@
-# files without extensions
+# visual studio code
 *
 !*/
 !*.*
-
-# macos folder settings
-.DS_Store
+.vscode/
+venv/
+*.dSYM
 
 # pycharm
 .idea/
@@ -19,6 +19,5 @@ Release/
 *.vcxproj.filters
 *.vcxproj.user
 
-# visual studio code
-.vscode/
-*.dSYM
+# os specific
+.DS_Store
