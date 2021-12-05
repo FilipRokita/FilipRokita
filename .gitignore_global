@@ -13,3 +13,7 @@ Release/
 
 .vscode
 *.dSYM
+
+*
+!*/
+!*.*
