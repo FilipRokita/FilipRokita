@@ -12,9 +12,9 @@ venv/
 
 # visual studio
 .vs/
-*.sln
 Debug/
 Release/
+*.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
