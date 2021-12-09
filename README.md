@@ -1,4 +1,4 @@
-# Filip Rokitatest
+# Filip Rokita
 www.filiprokita.com
 
 # Legal
