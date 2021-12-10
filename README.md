@@ -1,4 +1,4 @@
-# About me
+# About
 Filip Rokita<br/>
 www.filiprokita.com
 
