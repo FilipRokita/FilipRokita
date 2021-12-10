@@ -1,4 +1,5 @@
-# Filip Rokita
+# About me
+Filip Rokita<br/>
 www.filiprokita.com
 
 # Disclaimer
