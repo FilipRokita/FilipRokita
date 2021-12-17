@@ -8,7 +8,10 @@
 
 # python
 __pycache__/
+build/
+dist/
 venv/
+*.spec
 
 # other
 .DS_Store
