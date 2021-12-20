@@ -1,4 +1,5 @@
 # About
+<img src="filiprokita.png" width=300 height=300/>
 Filip Rokita<br/>
 www.filiprokita.com
 
