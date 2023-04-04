@@ -1,7 +1,3 @@
-<img src="filiprokita.png" width=100 height=100/><br/>
-Filip Rokita<br/>
-www.filiprokita.com
-
 # About me
 Hi there! My name is Filip and I am a passionate programmer with years of experience in the field.
 
